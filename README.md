@@ -42,6 +42,6 @@ Project focuses on default prediction and financial analysis to assess a company
 
 ## Tech Stack ##
 - **Programming Language:** Python (pandas, NumPy, matplotlib, seaborn, scikit-learn)  
-- **Environment:** Jupyter Notebook → Exported as HTML for documentation  
+- **Environment:** Jupyter Notebook
 - **Models Used:** Logistic Regression, Decision Tree, Random Forest  
 - **Visualization:** Correlation plots, feature importance graphs, model performance metrics  
