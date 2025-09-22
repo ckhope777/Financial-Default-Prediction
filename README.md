@@ -1,11 +1,10 @@
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)  
-![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
 # Financial-Default-Prediction
 Project focuses on default prediction and financial analysis to assess a company’s ability to meet its debt obligations. Using machine learning models, financial ratios, and feature importance analysis, the project identifies key drivers of default risk and builds a predictive framework to classify companies as likely to default or not.
 
-Workflow & Steps
+## Workflow & Steps ##
 
 1. **Problem Understanding**  
    - Defined the task as binary classification: *Default* vs *Non-Default*.
